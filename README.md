@@ -2,7 +2,7 @@
 
 An example of an image slider on Ionic for comparing two images.
 
-It uses the juxtaposejs library.
+It uses the juxtaposejs library. https://juxtapose.knightlab.com/
 
 Downloaded the css and js from the site into the assets folder.
  
